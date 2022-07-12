@@ -2,6 +2,6 @@
 
 int main()
 {
-	ft_isnum(1);
+	ft_isdigit(1);
 	printf("number as arguement");
 }
